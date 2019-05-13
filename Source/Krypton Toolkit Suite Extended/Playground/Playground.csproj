@@ -8,11 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>Playground</RootNamespace>
     <AssemblyName>Playground</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <ApplicationVersion>1.0.14.0</ApplicationVersion>
-    <AssemblyVersion>5.450.415.0</AssemblyVersion>
+    <AssemblyVersion>5.461.415.0</AssemblyVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -39,7 +39,7 @@
     <ApplicationIcon>Resources\KR 48 x 48 Orange.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Global Utilities, Version=5.450.507.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Global Utilities, Version=5.461.507.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Global Utilities\bin\Debug\Global Utilities.dll</HintPath>
     </Reference>
@@ -269,8 +269,8 @@
     <None Include="Resources\KR 48 x 48 Orange.ico" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="KryptonToolkitSuite5450">
-      <Version>5.450.901</Version>
+    <PackageReference Include="KryptonToolkitSuite5461">
+      <Version>5.461.901</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

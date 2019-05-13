@@ -8,11 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>PaletteEditor</RootNamespace>
     <AssemblyName>Palette Editor</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <AssemblyVersion>5.450.931.0</AssemblyVersion>
+    <AssemblyVersion>5.461.931.0</AssemblyVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -278,8 +278,8 @@
     <None Include="Resources\About_Information_32_x_32.png" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="KryptonToolkitSuite5450">
-      <Version>5.450.968</Version>
+    <PackageReference Include="KryptonToolkitSuite5461">
+      <Version>5.461.973</Version>
     </PackageReference>
     <PackageReference Include="WindowsAPICodePackShell">
       <Version>1.1.0</Version>

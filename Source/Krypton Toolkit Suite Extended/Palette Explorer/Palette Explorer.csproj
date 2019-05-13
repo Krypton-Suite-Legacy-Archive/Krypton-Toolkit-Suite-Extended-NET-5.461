@@ -8,11 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>PaletteExplorer</RootNamespace>
     <AssemblyName>Palette Explorer</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <AssemblyVersion>5.450.475.0</AssemblyVersion>
+    <AssemblyVersion>5.461.475.0</AssemblyVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -294,8 +294,8 @@
     <PackageReference Include="jacobslusser.ScintillaNET">
       <Version>3.6.3</Version>
     </PackageReference>
-    <PackageReference Include="KryptonToolkitSuite5450">
-      <Version>5.450.968</Version>
+    <PackageReference Include="KryptonToolkitSuite5461">
+      <Version>5.461.968</Version>
     </PackageReference>
     <PackageReference Include="snt.ScintillaNet.FindReplaceDialog">
       <Version>1.4.0</Version>

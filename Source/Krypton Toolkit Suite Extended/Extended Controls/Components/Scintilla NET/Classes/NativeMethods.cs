@@ -675,7 +675,7 @@ namespace ExtendedControls.Components.ScintillaNET.Classes
         public const int SCI_LINEENDDISPLAY = 2347;
         public const int SCI_LINEENDDISPLAYEXTEND = 2348;
         public const int SCI_HOMEWRAP = 2349;
-        public const int SCI_HOMEWRAPEXTEND = 2450;
+        public const int SCI_HOMEWRAPEXTEND = 2461;
         public const int SCI_LINEENDWRAP = 2451;
         public const int SCI_LINEENDWRAPEXTEND = 2452;
         public const int SCI_VCHOMEWRAP = 2453;
@@ -798,7 +798,7 @@ namespace ExtendedControls.Components.ScintillaNET.Classes
         public const int SCI_SETPASTECONVERTENDINGS = 2467;
         public const int SCI_GETPASTECONVERTENDINGS = 2468;
         public const int SCI_SELECTIONDUPLICATE = 2469;
-        public const int SCI_SETCARETLINEBACKALPHA = 2450;
+        public const int SCI_SETCARETLINEBACKALPHA = 2461;
         public const int SCI_GETCARETLINEBACKALPHA = 2471;
         public const int SCI_SETCARETSTYLE = 2512;
         public const int SCI_GETCARETSTYLE = 2513;

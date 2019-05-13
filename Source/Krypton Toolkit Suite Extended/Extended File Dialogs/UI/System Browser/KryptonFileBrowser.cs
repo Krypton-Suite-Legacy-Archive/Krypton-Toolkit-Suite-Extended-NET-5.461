@@ -81,7 +81,7 @@ namespace ExtendedControls.ExtendedToolkit.UI.SystemBrowser
             this.tvFileList.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tvFileList.Location = new System.Drawing.Point(11, 50);
             this.tvFileList.Name = "tvFileList";
-            this.tvFileList.Size = new System.Drawing.Size(467, 450);
+            this.tvFileList.Size = new System.Drawing.Size(467, 461);
             this.tvFileList.TabIndex = 3;
             this.tvFileList.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.tvFileList_AfterSelect);
             // 
@@ -89,7 +89,7 @@ namespace ExtendedControls.ExtendedToolkit.UI.SystemBrowser
             // 
             this.ktvFileList.Location = new System.Drawing.Point(12, 50);
             this.ktvFileList.Name = "ktvFileList";
-            this.ktvFileList.Size = new System.Drawing.Size(467, 450);
+            this.ktvFileList.Size = new System.Drawing.Size(467, 461);
             this.ktvFileList.StateNormal.Node.Content.LongText.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ktvFileList.StateNormal.Node.Content.ShortText.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ktvFileList.TabIndex = 0;

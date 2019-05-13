@@ -9,10 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>KryptonWizard</RootNamespace>
     <AssemblyName>Krypton Wizard</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationVersion>4.70.502.0</ApplicationVersion>
-    <AssemblyVersion>5.450.594.0</AssemblyVersion>
+    <AssemblyVersion>5.461.594.0</AssemblyVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -162,8 +162,8 @@
     <None Include="Resources\Krypton.ico" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="KryptonToolkitSuite5450">
-      <Version>5.450.968</Version>
+    <PackageReference Include="KryptonToolkitSuite5461">
+      <Version>5.461.973</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

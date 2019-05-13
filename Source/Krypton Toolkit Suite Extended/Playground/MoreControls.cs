@@ -105,7 +105,7 @@ namespace Playground
             this.kryptonPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.kryptonPanel1.Location = new System.Drawing.Point(0, 0);
             this.kryptonPanel1.Name = "kryptonPanel1";
-            this.kryptonPanel1.Size = new System.Drawing.Size(1450, 777);
+            this.kryptonPanel1.Size = new System.Drawing.Size(1461, 777);
             this.kryptonPanel1.TabIndex = 0;
             // 
             // kryptonButton2
@@ -390,7 +390,7 @@ namespace Playground
             // 
             // MoreControls
             // 
-            this.ClientSize = new System.Drawing.Size(1450, 777);
+            this.ClientSize = new System.Drawing.Size(1461, 777);
             this.Controls.Add(this.kryptonPanel1);
             this.Name = "MoreControls";
             ((System.ComponentModel.ISupportInitialize)(this.kryptonPanel1)).EndInit();

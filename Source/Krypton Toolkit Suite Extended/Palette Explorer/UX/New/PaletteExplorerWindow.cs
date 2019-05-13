@@ -1324,7 +1324,7 @@ namespace PaletteExplorer.UX.New
             // buttonSpecAny28
             // 
             this.buttonSpecAny28.Type = ComponentFactory.Krypton.Toolkit.PaletteButtonSpecStyle.ArrowDown;
-            this.buttonSpecAny28.UniqueName = "5C9E40DBFF67450B5C9E40DBFF67450B";
+            this.buttonSpecAny28.UniqueName = "5C9E40DBFF67461B5C9E40DBFF67461B";
             // 
             // buttonSpecAny27
             // 

@@ -39,7 +39,7 @@ namespace ExtendedControls.ExtendedToolkit.Messageboxes.UI
             this.kpnlBackdrop.Dock = System.Windows.Forms.DockStyle.Fill;
             this.kpnlBackdrop.Location = new System.Drawing.Point(0, 0);
             this.kpnlBackdrop.Name = "kpnlBackdrop";
-            this.kpnlBackdrop.Size = new System.Drawing.Size(800, 450);
+            this.kpnlBackdrop.Size = new System.Drawing.Size(800, 461);
             this.kpnlBackdrop.TabIndex = 0;
             // 
             // klblMessage
@@ -131,7 +131,7 @@ namespace ExtendedControls.ExtendedToolkit.Messageboxes.UI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 461);
             this.Controls.Add(this.pbxDivider);
             this.Controls.Add(this.kpnlBottom);
             this.Controls.Add(this.kpnlBackdrop);

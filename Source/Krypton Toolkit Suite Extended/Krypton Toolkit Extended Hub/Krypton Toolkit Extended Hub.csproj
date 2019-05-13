@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>KryptonToolkitExtendedHub</RootNamespace>
     <AssemblyName>Krypton Toolkit Extended Hub</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -95,8 +95,8 @@
     <None Include="Resources\KR 48 x 48 Orange.ico" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="KryptonToolkitSuite5450">
-      <Version>5.450.968</Version>
+    <PackageReference Include="KryptonToolkitSuite5461">
+      <Version>5.461.973</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
