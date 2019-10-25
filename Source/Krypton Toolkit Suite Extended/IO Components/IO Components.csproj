@@ -68,6 +68,10 @@
       <Project>{5f28100d-c9a0-4361-b780-7ac132a421df}</Project>
       <Name>Extended Toolkit Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Extended Controls\Extended Controls.csproj">
+      <Project>{1C9153E4-CDC4-44C9-9794-1D144FE87A1F}</Project>
+      <Name>Extended Controls</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="KryptonToolkitSuite5461CoreModule">

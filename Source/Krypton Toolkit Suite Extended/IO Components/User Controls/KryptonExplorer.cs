@@ -1,4 +1,5 @@
 ﻿using ComponentFactory.Krypton.Toolkit;
+using ExtendedControls.ExtendedToolkit.Controls.KryptonControls;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
@@ -15,7 +16,7 @@ namespace IOComponents.UserControls
         private ComponentFactory.Krypton.Toolkit.KryptonSplitContainer kryptonSplitContainer1;
         private ComponentFactory.Krypton.Toolkit.KryptonTreeView ktvExplorer;
         private ImageList ilExplorer;
-        private ExtendedControls.ExtendedToolkit.Controls.KryptonControls.KryptonListView klvFileList;
+        private KryptonListView klvFileList;
         private ColumnHeader colName;
         private ColumnHeader colType;
         private ColumnHeader colLastModified;
